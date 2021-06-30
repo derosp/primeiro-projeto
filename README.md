@@ -3,4 +3,5 @@
 
 O objetivo deste foi tentar aplicar os conceitos aprendidos nas aulas passadas, recriando (conceitos básicos) a página de login do LinkedIn.
 
-![image](https://user-images.githubusercontent.com/86262188/124042863-2ca75e80-d9e0-11eb-8876-14df2ab553d4.png)
+![image](https://user-images.githubusercontent.com/86262188/124042967-64160b00-d9e0-11eb-825a-d07b8feb4d4c.png)
+
